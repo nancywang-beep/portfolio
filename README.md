@@ -5,8 +5,8 @@ This repository contains the source code for my personal engineering portfolio, 
 ## 🛠 Featured Projects
 
 ### 1. Test Pattern Design and Fabrication (Purdue University)
-* [cite_start]**Overview**: Focused on the design, fabrication, and electrical characterization of lithography test patterns used for semiconductor process monitoring[cite: 1, 3].
-* [cite_start]**Goal**: Developed robust test structures to extract key process parameters such as sheet resistance, contact resistance, and uniformity[cite: 4].
+* **Overview**: Focused on the design, fabrication, and electrical characterization of lithography test patterns used for semiconductor process monitoring[cite: 1, 3].
+* **Goal**: Developed robust test structures to extract key process parameters such as sheet resistance, contact resistance, and uniformity[cite: 4].
 * **Technical Execution**:
     * [cite_start]Designed full-wafer layouts using **KLayout**, including serpentine resistors, cross-bridge Kelvin resistors (CBKR), and MOS capacitors (MOSCAPs)[cite: 6, 7].
     * [cite_start]Performed cleanroom fabrication steps: spin coating, maskless photolithography, and etching[cite: 8, 26, 27].
