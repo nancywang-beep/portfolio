@@ -27,7 +27,7 @@ This repository contains the source code for my personal engineering portfolio, 
 * **Design & Layout**: KLayout, DRC-aware pattern design.
 * **Fabrication**: Spin coating, photolithography (maskless), wet/dry etching.
 * **Characterization**: Probe-station measurements, parametric data analysis, oscilloscope-based power path debugging.
-* **Domain Knowledge**: Semiconductor process integration, statistical process control (SPC), and power electronics bench testing.
+* **Domain Knowledge**: Semiconductor process integration, and power electronics bench testing.
 
 ---
 
