@@ -33,4 +33,4 @@ This repository contains the source code for my personal engineering portfolio, 
 
 ## 🚀 How to View
 The live version of this portfolio is hosted via GitHub Pages at:
-`[Insert your GitHub Pages URL here]`
+`[https://nancywang-beep.github.io/portfolio/]`
